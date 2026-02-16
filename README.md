@@ -9,6 +9,7 @@
 | Member | Count | Status |
 |--------|-------|--------|
 | FaceWithNull | 2 | ❌ |
+| LYoooJ | 1 | ❌ |
 | orca-svg | 1 | ❌ |
 | tomchaccom | 1 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
