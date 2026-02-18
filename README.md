@@ -8,7 +8,14 @@
 
 | Member | Count | Status |
 |--------|-------|--------|
-| - | 0 | ❌ |
+| FaceWithNull | 7 | ✅ |
+| KangYeSeo04 | 1 | ❌ |
+| LYoooJ | 5 | ✅ |
+| godten-cmd | 5 | ✅ |
+| gun9212 | 1 | ❌ |
+| orca-svg | 1 | ❌ |
+| sungjaep11 | 3 | ❌ |
+| tomchaccom | 3 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
 
 
