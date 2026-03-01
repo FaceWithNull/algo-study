@@ -16,7 +16,7 @@
 | hjxarchive | 5 | ✅ |
 | onff02 | 6 | ✅ |
 | orca-svg | 17 | ✅ |
-| sungjaep11 | 2 | ❌ |
+| sungjaep11 | 3 | ❌ |
 | tomchaccom | 5 | ✅ |
 <!-- WEEKLY_DASHBOARD_END -->
 
