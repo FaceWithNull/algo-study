@@ -10,6 +10,7 @@
 |--------|-------|--------|
 | KangYeSeo04 | 1 | ❌ |
 | Nul0luN | 2 | ❌ |
+| orca-svg | 1 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
 
 
