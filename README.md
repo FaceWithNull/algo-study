@@ -13,7 +13,7 @@
 | Nul0luN | 16 | ✅ |
 | alicebsy | 5 | ✅ |
 | onff02 | 6 | ✅ |
-| orca-svg | 7 | ✅ |
+| orca-svg | 8 | ✅ |
 | sungjaep11 | 5 | ✅ |
 | tomchaccom | 9 | ✅ |
 <!-- WEEKLY_DASHBOARD_END -->
