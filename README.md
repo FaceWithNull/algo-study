@@ -9,7 +9,7 @@
 | Member | Count | Status |
 |--------|-------|--------|
 | LYoooJ | 1 | ❌ |
-| Nul0luN | 6 | ✅ |
+| Nul0luN | 7 | ✅ |
 | alicebsy | 1 | ❌ |
 | onff02 | 1 | ❌ |
 | orca-svg | 3 | ❌ |
