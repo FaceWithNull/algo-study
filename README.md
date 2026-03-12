@@ -11,7 +11,7 @@
 | LYoooJ | 6 | ✅ |
 | Nul0luN | 14 | ✅ |
 | alicebsy | 1 | ❌ |
-| godten-cmd | 3 | ❌ |
+| godten-cmd | 4 | ❌ |
 | haeunjeon0410 | 7 | ✅ |
 | onff02 | 8 | ✅ |
 | orca-svg | 7 | ✅ |
